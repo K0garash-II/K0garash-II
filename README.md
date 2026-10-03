@@ -8,7 +8,9 @@ Building backend systems with Go.
 
 ## Stack
 
-Go · PostgreSQL · Docker · REST API · Git · Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,linux,kafka&theme=dark" />
+</p>
 
 ## Currently working with
 
