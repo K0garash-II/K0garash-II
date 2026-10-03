@@ -4,7 +4,34 @@
 
 </div>
 
-Building backend systems with Go.
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
+
+<pre>
+$ whoami
+backend developer
+
+$ focus
+Go · APIs · PostgreSQL · Docker
+
+$ building
+services · systems · distributed applications
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ## Stack
 
