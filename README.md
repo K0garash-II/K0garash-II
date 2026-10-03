@@ -4,34 +4,7 @@
 
 </div>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left">
-
-<pre>
-$ whoami
-backend developer
-
-$ focus
-Go · APIs · PostgreSQL · Docker
-
-$ building
-services · systems · distributed applications
-</pre>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+Building backend systems with Go.
 
 ## Stack
 
@@ -100,4 +73,3 @@ APIs · Databases · Services · Docker · Go
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header&reversal=false" width="80%" />
 
 </div>
-
