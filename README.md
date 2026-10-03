@@ -28,6 +28,3 @@ Data analysis and visualization project.
 
 Crypto price tracking project.
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K0garash-II&show_icons=true&theme=dark&hide_border=true)
