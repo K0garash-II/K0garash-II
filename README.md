@@ -16,11 +16,57 @@ Building backend systems with Go.
 
 Go backend development, APIs, databases and containerized applications.
 
-## Projects
+<h2>Projects</h2>
 
-### [mybootcamp](https://github.com/K0garash-II/mybootcamp)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Go projects, backend experiments and learning progress.
+<h3>mybootcamp</h3>
+
+Go backend development, algorithms and practical projects.
+
+<a href="https://github.com/K0garash-II/mybootcamp">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>job-market-analytics</h3>
+
+Data analysis and visualization project built with Python.
+
+<a href="https://github.com/K0garash-II/job-market-analytics">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>cryptoticker</h3>
+
+Cryptocurrency price tracking and API-based application.
+
+<a href="https://github.com/K0garash-II/cryptoticker">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Backend Focus</h3>
+
+APIs · Databases · Services · Docker · Go
+
+</td>
+</tr>
+</table>
 
 ### [job-market-analytics](https://github.com/K0garash-II/job-market-analytics)
 
