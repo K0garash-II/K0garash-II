@@ -68,14 +68,6 @@ APIs · Databases · Services · Docker · Go
 </tr>
 </table>
 
-### [job-market-analytics](https://github.com/K0garash-II/job-market-analytics)
-
-Data analysis and visualization project.
-
-### [cryptoticker](https://github.com/K0garash-II/cryptoticker)
-
-Crypto price tracking project.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header&reversal=false" width="80%" />
