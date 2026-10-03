@@ -1,4 +1,8 @@
-# Backend Developer
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+with+Go;Designing+APIs+and+services" />
+
+</div>
 
 Building backend systems with Go.
 
