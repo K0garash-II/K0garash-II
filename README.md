@@ -1,16 +1,29 @@
-## Hi there 👋
+# Backend Developer
 
-<!--
-**K0garash-II/K0garash-II** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building backend systems with Go.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Go · PostgreSQL · Docker · REST API · Git · Linux
+
+## Currently working with
+
+Go backend development, APIs, databases and containerized applications.
+
+## Projects
+
+### [mybootcamp](https://github.com/K0garash-II/mybootcamp)
+
+Go projects, backend experiments and learning progress.
+
+### [job-market-analytics](https://github.com/K0garash-II/job-market-analytics)
+
+Data analysis and visualization project.
+
+### [cryptoticker](https://github.com/K0garash-II/cryptoticker)
+
+Crypto price tracking project.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K0garash-II&show_icons=true&theme=dark&hide_border=true)
