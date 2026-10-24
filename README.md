@@ -74,20 +74,35 @@ APIs · Databases · Services · Docker · Go
 
 </div>
 
-
 <!-- Developer Statistics -->
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0garash-II&layout=compact&langs_count=6&title_color=8B0000&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=K0garash-II&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true&title_color=8B0000&text_color=C9D1D9&icon_color=8B0000&bg_color=0D1117&border_color=30363D" height="165" />
-
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0garash-II&layout=compact&langs_count=6&card_width=400&hide_title=false&title_color=8B0000&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false"
+          width="400"
+          height="180"
+          alt="Top Languages"
+        />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=K0garash-II&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true&card_width=400&title_color=8B0000&text_color=C9D1D9&icon_color=8B0000&bg_color=0D1117&border_color=30363D"
+          width="400"
+          height="180"
+          alt="GitHub Statistics"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header" width="80%" />
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header"
+    width="80%"
+    alt=""
+  />
 </div>
-
