@@ -68,6 +68,8 @@
 </tr>
 </table>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header" width="80%" />
 
 </div>
