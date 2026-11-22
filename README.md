@@ -4,25 +4,28 @@
 
 <p>Building backend systems with Go.</p>
 
+<h3>Stack</h3>
+
 <p>
-<img src="assets/stack.svg" width="96%" alt="Stack: Go, PostgreSQL, Docker, Git, Linux, Kafka" />
+<img src="https://skillicons.dev/icons?i=go,postgres,docker,git,linux,kafka&theme=dark" alt="Go, PostgreSQL, Docker, Git, Linux, Kafka" height="48" />
 </p>
 
 <p>
-<img src="assets/currently-working.svg" width="96%" alt="Currently working with Go backend development, APIs, databases and containerized applications" />
+<img src="assets/currently-working.svg" width="82%" alt="Currently working with Go backend development, APIs, databases and containerized applications" />
 </p>
 
 <h3>Projects</h3>
 
 <p>
-<a href="https://github.com/K0garash-II/go-payment-platform"><img src="assets/go-payment-platform.svg" width="47%" alt="go-payment-platform: Secure payment API built with Go and PostgreSQL" /></a>
-<a href="https://github.com/K0garash-II/nimbus"><img src="assets/nimbus.svg" width="47%" alt="nimbus: Cloud file storage built with Go, PostgreSQL, and S3." /></a>
+<a href="https://github.com/K0garash-II/go-payment-platform"><img src="assets/go-payment-platform.svg" width="40%" alt="go-payment-platform: Secure payment API built with Go and PostgreSQL" /></a>&nbsp;&nbsp;<a href="https://github.com/K0garash-II/nimbus"><img src="assets/nimbus.svg" width="40%" alt="nimbus: Cloud file storage built with Go, PostgreSQL, and S3." /></a>
 </p>
 
 <p>
-<img src="assets/backend-development.svg" width="96%" alt="Backend Development: Go, PostgreSQL, Docker, REST APIs, S3" />
+<img src="assets/backend-development.svg" width="82%" alt="Backend Development: Go, PostgreSQL, Docker, REST APIs, S3" />
 </p>
 
+<p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header" width="80%" alt="" />
+</p>
 
 </div>
