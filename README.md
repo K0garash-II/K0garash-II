@@ -22,17 +22,6 @@
 <h2 align="center">Projects</h2>
 
 <table align="center">
-<tr>
-<td width="50%" valign="top" align="center">
-
-<h3>mybootcamp</h3>
-
-<p>Go backend development, algorithms and practical projects.</p>
-
-
-<h2 align="center">Projects</h2>
-
-<table align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>go-payment-platform</h3>
@@ -59,9 +48,7 @@
     <td colspan="2" align="center">
       <h3>Backend Development</h3>
 
-      <p>
-        Go · PostgreSQL · Docker · REST APIs · S3
-      </p>
+      <p>Go · PostgreSQL · Docker · REST APIs · S3</p>
 
       <p>
         <em>Building reliable backend services and infrastructure.</em>
@@ -70,6 +57,31 @@
   </tr>
 </table>
 
+<h2 align="center">Developer Statistics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0garash-II&layout=compact&langs_count=6&card_width=400&title_color=8B0000&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
+          width="400"
+          height="180"
+          alt="Top Languages"
+        />
+      </td>
+
+      <td width="50%" align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=K0garash-II&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&card_width=400&title_color=8B0000&text_color=C9D1D9&icon_color=8B0000&bg_color=0D1117&border_color=30363D"
+          width="400"
+          height="180"
+          alt="GitHub Statistics"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 
