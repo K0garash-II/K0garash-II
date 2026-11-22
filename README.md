@@ -29,44 +29,47 @@
 
 <p>Go backend development, algorithms and practical projects.</p>
 
-<a href="https://github.com/K0garash-II/mybootcamp">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
-</td>
-<td width="50%" valign="top" align="center">
+<h2 align="center">Projects</h2>
 
-<h3>job-market-analytics</h3>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>go-payment-platform</h3>
 
-<p>Data analysis and visualization project built with Python.</p>
+      <p>Secure payment API built with Go and PostgreSQL</p>
 
-<a href="https://github.com/K0garash-II/job-market-analytics">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+      <a href="https://github.com/K0garash-II/go-payment-platform">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+    <td width="50%" align="center" valign="top">
+      <h3>nimbus</h3>
 
-<h3>cryptoticker</h3>
+      <p>Cloud file storage built with Go, PostgreSQL, and S3.</p>
 
-<p>Cryptocurrency price tracking and API-based application.</p>
+      <a href="https://github.com/K0garash-II/nimbus">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-<a href="https://github.com/K0garash-II/cryptoticker">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Backend Development</h3>
 
-</td>
-<td width="50%" valign="top" align="center">
+      <p>
+        Go · PostgreSQL · Docker · REST APIs · S3
+      </p>
 
-<h3>Backend Focus</h3>
-
-<p>APIs · Databases · Services · Docker · Go</p>
-
-</td>
-</tr>
+      <p>
+        <em>Building reliable backend services and infrastructure.</em>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 <div align="center">
 
