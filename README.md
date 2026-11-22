@@ -1,66 +1,28 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+with+Go;Designing+APIs+and+services" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+with+Go;Designing+APIs+and+services" alt="Backend Developer | Building with Go | Designing APIs and services" />
 
 <p>Building backend systems with Go.</p>
 
-</div>
-
-<h2 align="center">Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,postgres,docker,git,linux,kafka&theme=dark" />
+<p>
+<img src="assets/stack.svg" width="96%" alt="Stack: Go, PostgreSQL, Docker, Git, Linux, Kafka" />
 </p>
 
-<h2 align="center">Currently working with</h2>
-
-<p align="center">
-Go backend development, APIs, databases and containerized applications.
+<p>
+<img src="assets/currently-working.svg" width="96%" alt="Currently working with Go backend development, APIs, databases and containerized applications" />
 </p>
 
-<h2 align="center">Projects</h2>
+<h3>Projects</h3>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top" align="center">
+<p>
+<a href="https://github.com/K0garash-II/go-payment-platform"><img src="assets/go-payment-platform.svg" width="47%" alt="go-payment-platform: Secure payment API built with Go and PostgreSQL" /></a>
+<a href="https://github.com/K0garash-II/nimbus"><img src="assets/nimbus.svg" width="47%" alt="nimbus: Cloud file storage built with Go, PostgreSQL, and S3." /></a>
+</p>
 
-<h3>go-payment-platform</h3>
+<p>
+<img src="assets/backend-development.svg" width="96%" alt="Backend Development: Go, PostgreSQL, Docker, REST APIs, S3" />
+</p>
 
-<p>Secure payment API built with Go and PostgreSQL</p>
-
-<a href="https://github.com/K0garash-II/go-payment-platform">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<h3>nimbus</h3>
-
-<p>Cloud file storage built with Go, PostgreSQL, and S3.</p>
-
-<a href="https://github.com/K0garash-II/nimbus">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<h3>Backend Development</h3>
-
-<p>Go · PostgreSQL · Docker · REST APIs · S3</p>
-
-<p><em>Building reliable backend services and infrastructure.</em></p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header" width="80%" alt="" />
 
 </div>

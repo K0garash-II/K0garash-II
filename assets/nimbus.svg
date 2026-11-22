@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="250" viewBox="0 0 470 250" role="img" aria-label="nimbus: Cloud file storage built with Go, PostgreSQL, and S3.. View repository">
+<rect x="1" y="1" width="468" height="248" rx="22" fill="#15191F" stroke="#30363D" stroke-width="2"/>
+<rect x="28" y="25" width="45" height="3" rx="1.5" fill="#8B0000"/>
+<text x="28" y="54" text-anchor="start" fill="#B34B55" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="1.0">02 / FEATURED PROJECT</text>
+<text x="28" y="99" text-anchor="start" fill="#E6EDF3" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="30" font-weight="700">nimbus</text>
+<text x="28" y="139" text-anchor="start" fill="#A0A6B0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="400">Cloud file storage built with Go,</text>
+<text x="28" y="165" text-anchor="start" fill="#A0A6B0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="400">PostgreSQL, and S3.</text>
+<rect x="28" y="191" width="191" height="38" rx="8" fill="#8B0000"/>
+<text x="123" y="216" text-anchor="middle" fill="#FFFFFF" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700" letter-spacing="0.4">VIEW REPOSITORY</text>
+</svg>
