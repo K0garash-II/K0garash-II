@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="392" height="176" viewBox="0 0 392 176" role="img" aria-label="go-payment-platform: Secure payment API built with Go and PostgreSQL View repository">
-<rect x="1" y="1" width="390" height="174" rx="16" fill="#15191F" stroke="#30363D" stroke-width="2"/>
-<rect x="24" y="17" width="38" height="3" rx="1.5" fill="#8B0000"/>
-<text x="24" y="43" fill="#B34B55" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" font-weight="700" letter-spacing="0.65">01 / FEATURED PROJECT</text>
-<text x="24" y="75" fill="#E6EDF3" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19.6" font-weight="700">go-payment-platform</text>
-<text x="24" y="103" fill="#A0A6B0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13.5" font-weight="400">Secure payment API built with</text>
-<text x="24" y="122" fill="#A0A6B0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13.5" font-weight="400">Go and PostgreSQL</text>
-<rect x="24" y="138" width="153" height="27" rx="6" fill="#8B0000"/>
-<text x="100.5" y="156" text-anchor="middle" fill="#FFFFFF" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.7" font-weight="700" letter-spacing="0.3">VIEW REPOSITORY</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="168" viewBox="0 0 440 168" role="img" aria-label="go-payment-platform: Secure payment API built with Go and PostgreSQL">
+<rect x="1" y="1" width="438" height="166" rx="16" fill="#15191F" stroke="#30363D" stroke-width="2"/>
+<rect x="24" y="14" width="38" height="3" rx="1.5" fill="#8B0000"/><text x="24" y="36" fill="#B34B55" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" font-weight="700" letter-spacing="1.0">01 / FEATURED PROJECT</text>
+<text x="24" y="70" text-anchor="start" fill="#E6EDF3" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19.5" font-weight="700">go-payment-platform</text>
+<text x="24" y="98" text-anchor="start" fill="#A0A6B0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13.3" font-weight="400">Secure payment API built with Go</text>
+<text x="24" y="117" text-anchor="start" fill="#A0A6B0" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13.3" font-weight="400">and PostgreSQL</text>
+<rect x="24" y="131" width="142" height="25" rx="6" fill="#8B0000"/>
+<text x="95" y="148" text-anchor="middle" fill="#FFFFFF" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.5" font-weight="700">VIEW REPOSITORY</text>
 </svg>
